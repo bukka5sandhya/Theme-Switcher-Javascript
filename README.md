@@ -1,0 +1,50 @@
+In this assignment, let's build a Theme Switcher by applying the concepts we learned till now.
+
+Refer to the below image.
+
+![image](https://github.com/bukka5sandhya/Theme-Switcher-Javascript/assets/133884532/84c72215-aaa7-41dc-a274-481ad88ebbbf)
+
+https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/change-theme-v1.gif
+
+Instructions:
+
+Add an id bgContainer to the HTML container element with the class name bg-container
+
+Add an id heading to the HTML main heading element with the class name heading
+
+Add an id themeUserInput to the HTML input element with the class name user-input
+
+Warning
+
+Do not delete the prefilled code.
+
+By following the above instructions, achieve the given functionality.
+
+When the value Light or Dark is entered in the HTML input element and Enter key is pressed,
+
+Change the background image of the HTML container element with the id bgContainer correspondingly
+
+Change the text color of the HTML main heading element with the id heading correspondingly
+
+When the value other than the Light or Dark is entered in the HTML input element and Enter key is pressed,
+
+Show an alert message to enter the valid theme
+
+Resources
+
+Use the image URLs given below.
+
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/change-theme-light-bg.png
+
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/change-theme-dark-bg.png
+
+
+CSS Colors used:
+
+#014d40
+
+Concepts Review
+
+Want to quickly review some of the concepts you’ve been learning?
+
+Take a look at the Cheat Sheets.
